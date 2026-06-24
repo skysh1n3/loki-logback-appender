@@ -7,7 +7,7 @@
     <!-- 基础坐标 -->
     <groupId>io.github.skysh1n3</groupId>
     <artifactId>loki-logback-appender</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <!-- 开源必备元数据 -->
